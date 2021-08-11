@@ -1,9 +1,11 @@
 # second_ex
 Training
+
  # About me 
  
+ 
 | name     | Age |fav_color     | fav_languge |
-| ---------|---- |-----------    -------------
+| ---------|---- |-----------   | ------------|
 | Akram    |41   | blue         | arabic      | 
 
 
