@@ -1,11 +1,13 @@
 # second_ex
 Training
- # my name is Akram ,am 41
+ # About me 
  
-## my favorite color is 
-1. blue
-2. white 
-3. black 
+| name     | Age |fav_color     | 
+| ---------|---- |-----------
+| Akram    |41   | blue         |   
+
+
+
 
 
  ## my avourite language is  :
