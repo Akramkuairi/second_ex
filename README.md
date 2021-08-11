@@ -2,21 +2,14 @@
 Training
  # About me 
  
-| name     | Age |fav_color     | 
-| ---------|---- |-----------
-| Akram    |41   | blue         |   
+| name     | Age |fav_color     | fav_languge |
+| ---------|---- |-----------    -------------
+| Akram    |41   | blue         | arabic      | 
 
 
 
-
-
- ## my avourite language is  :
- 1. arabic 
- 2. english 
- 3. deutsh
- 
  ## list favourite restaurants :
- 1. arabic restaurants 
+ 1. restaurants arabic 
  2. restaurants turkish 
  3. restaurants italish 
  
